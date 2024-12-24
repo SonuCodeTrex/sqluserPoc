@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IHihFl9wdyA=",
+  "success": true,
+  "projectFilePath": "D:\\My Project\\LoggerService\\LoggerService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sumit\\.nuget\\packages\\serilog\\4.2.0\\serilog.4.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

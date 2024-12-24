@@ -1,0 +1,461 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My Project\\SqlUser\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{696FBF4E-92AF-4045-A23E-E94ACCAA1B45}|SqlUser.csproj|d:\\my project\\sqluser\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{696FBF4E-92AF-4045-A23E-E94ACCAA1B45}|SqlUser.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A734D09-BD54-441D-9689-90BD56B36356}|..\\Service\\Service.csproj|d:\\my project\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC41388C-721A-4380-B061-FC308B4A66C0}|..\\Repository\\Repository.csproj|d:\\my project\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC41388C-721A-4380-B061-FC308B4A66C0}|..\\Repository\\Repository.csproj|d:\\my project\\repository\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F8C0A8-7CD6-4B58-928D-CB9806C619EC}|..\\LoggerService\\LoggerService.csproj|d:\\my project\\loggerservice\\loggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3516E8C5-7281-4EAD-A531-71889B61A4CC}|..\\ViewModel\\ViewModel.csproj|d:\\my project\\viewmodel\\responseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696FBF4E-92AF-4045-A23E-E94ACCAA1B45}|SqlUser.csproj|d:\\my project\\sqluser\\extensions\\serviceconfigextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{696FBF4E-92AF-4045-A23E-E94ACCAA1B45}|SqlUser.csproj|solutionrelative:extensions\\serviceconfigextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696FBF4E-92AF-4045-A23E-E94ACCAA1B45}|SqlUser.csproj|d:\\my project\\sqluser\\utils\\loggingevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{696FBF4E-92AF-4045-A23E-E94ACCAA1B45}|SqlUser.csproj|solutionrelative:utils\\loggingevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3516E8C5-7281-4EAD-A531-71889B61A4CC}|..\\ViewModel\\ViewModel.csproj|d:\\my project\\viewmodel\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9B358B3-A056-4D15-A25E-D59CD48EBEE0}|..\\ServiceContract\\ServiceContract.csproj|d:\\my project\\servicecontract\\iusercontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9B358B3-A056-4D15-A25E-D59CD48EBEE0}|..\\ServiceContract\\ServiceContract.csproj|d:\\my project\\servicecontract\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A734D09-BD54-441D-9689-90BD56B36356}|..\\Service\\Service.csproj|d:\\my project\\service\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE59B3C8-FA0D-4F62-9CA0-C5D1543786AA}|..\\RepositoryContract\\RepositoryContract.csproj|d:\\my project\\repositorycontract\\idappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE59B3C8-FA0D-4F62-9CA0-C5D1543786AA}|..\\RepositoryContract\\RepositoryContract.csproj|d:\\my project\\repositorycontract\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE59B3C8-FA0D-4F62-9CA0-C5D1543786AA}|..\\RepositoryContract\\RepositoryContract.csproj|d:\\my project\\repositorycontract\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC41388C-721A-4380-B061-FC308B4A66C0}|..\\Repository\\Repository.csproj|d:\\my project\\repository\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81FFA25-99FA-4EF8-A3C2-DD72F1C7636F}|..\\Model\\Model.csproj|d:\\my project\\model\\modeltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F8C0A8-7CD6-4B58-928D-CB9806C619EC}|..\\LoggerService\\LoggerService.csproj|d:\\my project\\loggerservice\\iloggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D1E2CF-E52B-4759-A8F7-DD7F5E16C346}|..\\Common\\Common.csproj|d:\\my project\\common\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC41388C-721A-4380-B061-FC308B4A66C0}|..\\Repository\\Repository.csproj|d:\\my project\\repository\\repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81FFA25-99FA-4EF8-A3C2-DD72F1C7636F}|..\\Model\\Model.csproj|d:\\my project\\model\\model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3516E8C5-7281-4EAD-A531-71889B61A4CC}|..\\ViewModel\\ViewModel.csproj|d:\\my project\\viewmodel\\viewmodel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696FBF4E-92AF-4045-A23E-E94ACCAA1B45}|SqlUser.csproj|d:\\my project\\sqluser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{696FBF4E-92AF-4045-A23E-E94ACCAA1B45}|SqlUser.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696FBF4E-92AF-4045-A23E-E94ACCAA1B45}|SqlUser.csproj|d:\\my project\\sqluser\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{696FBF4E-92AF-4045-A23E-E94ACCAA1B45}|SqlUser.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE59B3C8-FA0D-4F62-9CA0-C5D1543786AA}|..\\RepositoryContract\\RepositoryContract.csproj|d:\\my project\\repositorycontract\\repositorycontract.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F8C0A8-7CD6-4B58-928D-CB9806C619EC}|..\\LoggerService\\LoggerService.csproj|d:\\my project\\loggerservice\\loggerservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9B358B3-A056-4D15-A25E-D59CD48EBEE0}|..\\ServiceContract\\ServiceContract.csproj|d:\\my project\\servicecontract\\servicecontract.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\My Project\\SqlUser\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "D:\\My Project\\SqlUser\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T08:01:18.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResponseViewModel.cs",
+              "DocumentMoniker": "D:\\My Project\\ViewModel\\ResponseViewModel.cs",
+              "RelativeDocumentMoniker": "..\\ViewModel\\ResponseViewModel.cs",
+              "ToolTip": "D:\\My Project\\ViewModel\\ResponseViewModel.cs",
+              "RelativeToolTip": "..\\ViewModel\\ResponseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T10:22:08.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoggerManager.cs",
+              "DocumentMoniker": "D:\\My Project\\LoggerService\\LoggerManager.cs",
+              "RelativeDocumentMoniker": "..\\LoggerService\\LoggerManager.cs",
+              "ToolTip": "D:\\My Project\\LoggerService\\LoggerManager.cs",
+              "RelativeToolTip": "..\\LoggerService\\LoggerManager.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T06:13:47.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\My Project\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\Service\\UserService.cs",
+              "ToolTip": "D:\\My Project\\Service\\UserService.cs",
+              "RelativeToolTip": "..\\Service\\UserService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwDEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T05:45:27.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\My Project\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\Repository\\UserRepository.cs",
+              "ToolTip": "D:\\My Project\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "..\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAvwIsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T12:24:41.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DapperContext.cs",
+              "DocumentMoniker": "D:\\My Project\\Repository\\DapperContext.cs",
+              "RelativeDocumentMoniker": "..\\Repository\\DapperContext.cs",
+              "ToolTip": "D:\\My Project\\Repository\\DapperContext.cs",
+              "RelativeToolTip": "..\\Repository\\DapperContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T09:13:53.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "D:\\My Project\\ViewModel\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "..\\ViewModel\\UserViewModel.cs",
+              "ToolTip": "D:\\My Project\\ViewModel\\UserViewModel.cs",
+              "RelativeToolTip": "..\\ViewModel\\UserViewModel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T10:32:07.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoggingEvents.cs",
+              "DocumentMoniker": "D:\\My Project\\SqlUser\\Utils\\LoggingEvents.cs",
+              "RelativeDocumentMoniker": "Utils\\LoggingEvents.cs",
+              "ToolTip": "D:\\My Project\\SqlUser\\Utils\\LoggingEvents.cs",
+              "RelativeToolTip": "Utils\\LoggingEvents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T06:41:51.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceConfigExtension.cs",
+              "DocumentMoniker": "D:\\My Project\\SqlUser\\Extensions\\ServiceConfigExtension.cs",
+              "RelativeDocumentMoniker": "Extensions\\ServiceConfigExtension.cs",
+              "ToolTip": "D:\\My Project\\SqlUser\\Extensions\\ServiceConfigExtension.cs",
+              "RelativeToolTip": "Extensions\\ServiceConfigExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T05:13:23.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserContract.cs",
+              "DocumentMoniker": "D:\\My Project\\ServiceContract\\IUserContract.cs",
+              "RelativeDocumentMoniker": "..\\ServiceContract\\IUserContract.cs",
+              "ToolTip": "D:\\My Project\\ServiceContract\\IUserContract.cs",
+              "RelativeToolTip": "..\\ServiceContract\\IUserContract.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T09:32:06.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IServiceManager.cs",
+              "DocumentMoniker": "D:\\My Project\\ServiceContract\\IServiceManager.cs",
+              "RelativeDocumentMoniker": "..\\ServiceContract\\IServiceManager.cs",
+              "ToolTip": "D:\\My Project\\ServiceContract\\IServiceManager.cs",
+              "RelativeToolTip": "..\\ServiceContract\\IServiceManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T08:08:16.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServiceManager.cs",
+              "DocumentMoniker": "D:\\My Project\\Service\\ServiceManager.cs",
+              "RelativeDocumentMoniker": "..\\Service\\ServiceManager.cs",
+              "ToolTip": "D:\\My Project\\Service\\ServiceManager.cs",
+              "RelativeToolTip": "..\\Service\\ServiceManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:15:23.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IDapperContext.cs",
+              "DocumentMoniker": "D:\\My Project\\RepositoryContract\\IDapperContext.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryContract\\IDapperContext.cs",
+              "ToolTip": "D:\\My Project\\RepositoryContract\\IDapperContext.cs",
+              "RelativeToolTip": "..\\RepositoryContract\\IDapperContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T12:38:45.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRepositoryManager.cs",
+              "DocumentMoniker": "D:\\My Project\\RepositoryContract\\IRepositoryManager.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryContract\\IRepositoryManager.cs",
+              "ToolTip": "D:\\My Project\\RepositoryContract\\IRepositoryManager.cs",
+              "RelativeToolTip": "..\\RepositoryContract\\IRepositoryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T11:22:17.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\My Project\\RepositoryContract\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryContract\\IUserRepository.cs",
+              "ToolTip": "D:\\My Project\\RepositoryContract\\IUserRepository.cs",
+              "RelativeToolTip": "..\\RepositoryContract\\IUserRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwA8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T11:09:44.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RepositoryManager.cs",
+              "DocumentMoniker": "D:\\My Project\\Repository\\RepositoryManager.cs",
+              "RelativeDocumentMoniker": "..\\Repository\\RepositoryManager.cs",
+              "ToolTip": "D:\\My Project\\Repository\\RepositoryManager.cs",
+              "RelativeToolTip": "..\\Repository\\RepositoryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T05:15:56.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ModelType.cs",
+              "DocumentMoniker": "D:\\My Project\\Model\\ModelType.cs",
+              "RelativeDocumentMoniker": "..\\Model\\ModelType.cs",
+              "ToolTip": "D:\\My Project\\Model\\ModelType.cs",
+              "RelativeToolTip": "..\\Model\\ModelType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T08:18:22.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ILoggerManager.cs",
+              "DocumentMoniker": "D:\\My Project\\LoggerService\\ILoggerManager.cs",
+              "RelativeDocumentMoniker": "..\\LoggerService\\ILoggerManager.cs",
+              "ToolTip": "D:\\My Project\\LoggerService\\ILoggerManager.cs",
+              "RelativeToolTip": "..\\LoggerService\\ILoggerManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T06:07:49.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Constant.cs",
+              "DocumentMoniker": "D:\\My Project\\Common\\Constant.cs",
+              "RelativeDocumentMoniker": "..\\Common\\Constant.cs",
+              "ToolTip": "D:\\My Project\\Common\\Constant.cs",
+              "RelativeToolTip": "..\\Common\\Constant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T08:11:08.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Repository.csproj",
+              "DocumentMoniker": "D:\\My Project\\Repository\\Repository.csproj",
+              "RelativeDocumentMoniker": "..\\Repository\\Repository.csproj",
+              "ToolTip": "D:\\My Project\\Repository\\Repository.csproj",
+              "RelativeToolTip": "..\\Repository\\Repository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-23T09:41:31.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Model.csproj",
+              "DocumentMoniker": "D:\\My Project\\Model\\Model.csproj",
+              "RelativeDocumentMoniker": "..\\Model\\Model.csproj",
+              "ToolTip": "D:\\My Project\\Model\\Model.csproj",
+              "RelativeToolTip": "..\\Model\\Model.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-23T13:40:21.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ViewModel.csproj",
+              "DocumentMoniker": "D:\\My Project\\ViewModel\\ViewModel.csproj",
+              "RelativeDocumentMoniker": "..\\ViewModel\\ViewModel.csproj",
+              "ToolTip": "D:\\My Project\\ViewModel\\ViewModel.csproj",
+              "RelativeToolTip": "..\\ViewModel\\ViewModel.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-21T12:21:20.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Project\\SqlUser\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\My Project\\SqlUser\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T12:20:39.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\My Project\\SqlUser\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\My Project\\SqlUser\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-23T12:19:01.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RepositoryContract.csproj",
+              "DocumentMoniker": "D:\\My Project\\RepositoryContract\\RepositoryContract.csproj",
+              "RelativeDocumentMoniker": "..\\RepositoryContract\\RepositoryContract.csproj",
+              "ToolTip": "D:\\My Project\\RepositoryContract\\RepositoryContract.csproj",
+              "RelativeToolTip": "..\\RepositoryContract\\RepositoryContract.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-23T11:11:36.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoggerService.csproj",
+              "DocumentMoniker": "D:\\My Project\\LoggerService\\LoggerService.csproj",
+              "RelativeDocumentMoniker": "..\\LoggerService\\LoggerService.csproj",
+              "ToolTip": "D:\\My Project\\LoggerService\\LoggerService.csproj",
+              "RelativeToolTip": "..\\LoggerService\\LoggerService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-23T06:07:27.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ServiceContract.csproj",
+              "DocumentMoniker": "D:\\My Project\\ServiceContract\\ServiceContract.csproj",
+              "RelativeDocumentMoniker": "..\\ServiceContract\\ServiceContract.csproj",
+              "ToolTip": "D:\\My Project\\ServiceContract\\ServiceContract.csproj",
+              "RelativeToolTip": "..\\ServiceContract\\ServiceContract.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-21T13:22:40.93Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

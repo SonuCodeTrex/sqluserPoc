@@ -1,0 +1,12 @@
+D:\My Project\LoggerService\bin\Debug\net8.0\LoggerService.deps.json
+D:\My Project\LoggerService\bin\Debug\net8.0\LoggerService.dll
+D:\My Project\LoggerService\bin\Debug\net8.0\LoggerService.pdb
+D:\My Project\LoggerService\obj\Debug\net8.0\LoggerService.csproj.AssemblyReference.cache
+D:\My Project\LoggerService\obj\Debug\net8.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Project\LoggerService\obj\Debug\net8.0\LoggerService.AssemblyInfoInputs.cache
+D:\My Project\LoggerService\obj\Debug\net8.0\LoggerService.AssemblyInfo.cs
+D:\My Project\LoggerService\obj\Debug\net8.0\LoggerService.csproj.CoreCompileInputs.cache
+D:\My Project\LoggerService\obj\Debug\net8.0\LoggerService.dll
+D:\My Project\LoggerService\obj\Debug\net8.0\refint\LoggerService.dll
+D:\My Project\LoggerService\obj\Debug\net8.0\LoggerService.pdb
+D:\My Project\LoggerService\obj\Debug\net8.0\ref\LoggerService.dll

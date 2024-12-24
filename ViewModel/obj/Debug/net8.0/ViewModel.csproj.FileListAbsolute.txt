@@ -1,0 +1,12 @@
+D:\My Project\ViewModel\bin\Debug\net8.0\ViewModel.deps.json
+D:\My Project\ViewModel\bin\Debug\net8.0\ViewModel.dll
+D:\My Project\ViewModel\bin\Debug\net8.0\ViewModel.pdb
+D:\My Project\ViewModel\obj\Debug\net8.0\ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Project\ViewModel\obj\Debug\net8.0\ViewModel.AssemblyInfoInputs.cache
+D:\My Project\ViewModel\obj\Debug\net8.0\ViewModel.AssemblyInfo.cs
+D:\My Project\ViewModel\obj\Debug\net8.0\ViewModel.csproj.CoreCompileInputs.cache
+D:\My Project\ViewModel\obj\Debug\net8.0\ViewModel.dll
+D:\My Project\ViewModel\obj\Debug\net8.0\refint\ViewModel.dll
+D:\My Project\ViewModel\obj\Debug\net8.0\ViewModel.pdb
+D:\My Project\ViewModel\obj\Debug\net8.0\ref\ViewModel.dll
+D:\My Project\ViewModel\obj\Debug\net8.0\ViewModel.csproj.AssemblyReference.cache

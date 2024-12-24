@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "LNx5gShc+Lsq7pXOLe/YuMs4PjyiC01Yp2BPv0mvWKY=",
+  "Source": "SqlUser",
+  "BasePath": "_content/SqlUser",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,15 @@
+D:\My Project\RepositoryContract\bin\Debug\net8.0\RepositoryContract.deps.json
+D:\My Project\RepositoryContract\bin\Debug\net8.0\RepositoryContract.dll
+D:\My Project\RepositoryContract\bin\Debug\net8.0\RepositoryContract.pdb
+D:\My Project\RepositoryContract\bin\Debug\net8.0\ViewModel.dll
+D:\My Project\RepositoryContract\bin\Debug\net8.0\ViewModel.pdb
+D:\My Project\RepositoryContract\obj\Debug\net8.0\RepositoryContract.csproj.AssemblyReference.cache
+D:\My Project\RepositoryContract\obj\Debug\net8.0\RepositoryContract.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Project\RepositoryContract\obj\Debug\net8.0\RepositoryContract.AssemblyInfoInputs.cache
+D:\My Project\RepositoryContract\obj\Debug\net8.0\RepositoryContract.AssemblyInfo.cs
+D:\My Project\RepositoryContract\obj\Debug\net8.0\RepositoryContract.csproj.CoreCompileInputs.cache
+D:\My Project\RepositoryContract\obj\Debug\net8.0\Reposito.DDB7A38D.Up2Date
+D:\My Project\RepositoryContract\obj\Debug\net8.0\RepositoryContract.dll
+D:\My Project\RepositoryContract\obj\Debug\net8.0\refint\RepositoryContract.dll
+D:\My Project\RepositoryContract\obj\Debug\net8.0\RepositoryContract.pdb
+D:\My Project\RepositoryContract\obj\Debug\net8.0\ref\RepositoryContract.dll
